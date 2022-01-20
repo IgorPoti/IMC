@@ -1,2 +1,2 @@
 # IMC
-s
+Índice de Massa Corporal
